@@ -13,7 +13,7 @@
     <td align="left">
       I'm a Full Stack Developer from Rio Grande do Sul, Brazil.
   
-  I working with **Ruby on Rails** and **Next.js**, currently learning **Python** and **Clojure**.
+  I'm working with **Ruby on Rails** and **Next.js**, currently learning **Python** and **Clojure**.
   
   I'm studying hard to be able to graduate at the end of this year.
   
