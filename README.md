@@ -13,9 +13,9 @@
     <td align="left">
       I'm a Full Stack Developer from Rio Grande do Sul, Brazil.
   
-  I'm working with **Ruby on Rails** and **Next.js**, currently learning **Python** and **Clojure**.
+  I'm working with **Ruby on Rails** and **Next.js**, currently learning **Python**.
   
-  I'm studying hard to be able to graduate at the end of this year.
+  I'm BSc Computer Science since 2022.
   
   Passionate to learning new languages and cultures, love animals and people, booklover and fascinated by adventure.
     </td>
