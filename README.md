@@ -15,7 +15,7 @@
   
   I'm working with **Ruby on Rails** and **Next.js**, currently learning **Python**.
   
-  I'm BSc Computer Science since 2022.
+  I'm BSc Computer Science since 2021-2.
   
   Passionate to learning new languages and cultures, love animals and people, booklover and fascinated by adventure.
     </td>
