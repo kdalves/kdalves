@@ -2,9 +2,6 @@
 
 [![Linkedin: bruno-yamasaki-2280b333](https://img.shields.io/badge/-Kathleen_Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kdalves/)](https://www.linkedin.com/in/kdalves/)
 [![GitHub Kathleen](https://img.shields.io/github/followers/kdalves?label=follow&style=social)](https://github.com/kdalves)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kdalves&left_color=green&right_color=red)
-
-
 
 # My Programming Knowledge 🦄
 
