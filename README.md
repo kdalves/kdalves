@@ -29,7 +29,7 @@
 <p align="left">
   Hi there! I'm a Full Stack Developer from Brazil, specializing in <strong>Ruby on Rails</strong> , <strong>React Native</strong> <strong>React.js</strong> and <strong>Next.js</strong>.
 
-  🎓 I graduated with a degree in Computer Science in 2021 and have since been delving into various technologies to continuously refine my expertise.
+  🎓 I graduated with a degree in Computer Science in 2021 and have since been developing into various technologies to continuously refine my expertise.
   
   🌟 Passionate about learning new languages—both programming and cultural—I'm an enthusiast of animals, people, an avid bookworm, and captivated by adventurous endeavors. I thrive on expanding my horizons.
   
